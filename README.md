@@ -55,5 +55,4 @@
 
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ferd-aboubakr&theme=radical)
 
-<!-- Use working top langs service -->
-![Top Languages](https://readme-stats-clone.vercel.app/api/top-langs/?username=ferd-aboubakr&layout=compact&theme=radical&hide_title=true)
+**Top Languages:** JavaScript, PHP, HTML, CSS, C,
