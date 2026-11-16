@@ -49,8 +49,8 @@
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ferd-aboubakr&show_icons=true&theme=radical&hide_title=true&include_all_commits=true)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ferd-aboubakr&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferd-aboubakr&layout=compact&theme=radical&hide_title=true)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ferd-aboubakr&theme=radical)
 
----
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=ferd-aboubakr&theme=radical)
