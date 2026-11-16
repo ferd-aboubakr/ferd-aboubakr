@@ -49,8 +49,11 @@
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ferd-aboubakr&theme=radical)
 
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ferd-aboubakr&theme=radical)
 
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=ferd-aboubakr&theme=radical)
+<!-- Use working top langs service -->
+![Top Languages](https://readme-stats-clone.vercel.app/api/top-langs/?username=ferd-aboubakr&layout=compact&theme=radical&hide_title=true)
