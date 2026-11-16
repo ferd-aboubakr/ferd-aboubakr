@@ -55,4 +55,4 @@
 
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ferd-aboubakr&theme=radical)
 
-**Top Languages:** JavaScript, PHP, HTML, CSS, C,
+**Top Languages:** JavaScript, PHP, HTML, CSS, C
